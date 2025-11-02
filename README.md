@@ -1,4 +1,3 @@
-```markdown
 # 🚀 LeetCode Java Solutions with Explanations
 
 Welcome to my **LeetCode Java Solutions** repository!  
